@@ -1,5 +1,5 @@
 # gitTest
 
 
-learn git
+learn
 
