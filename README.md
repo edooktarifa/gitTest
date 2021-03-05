@@ -1,4 +1,4 @@
 # gitTest
 
-learn gitsss
+learn git rebase continue
 
