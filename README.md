@@ -1,5 +1,5 @@
 # gitTest
 
 
-learn git rebase --skip
+learn git rebase --skips
 
