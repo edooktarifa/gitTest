@@ -1,4 +1,4 @@
 # gitTest
 
-learn git
+learn git base
 
