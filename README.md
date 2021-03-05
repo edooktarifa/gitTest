@@ -1,5 +1,5 @@
 # gitTest
 
 
-learn git bases + m
+learn git bases + mt
 
