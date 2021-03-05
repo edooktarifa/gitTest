@@ -1,4 +1,4 @@
 # gitTest
 
-learn git rebase continues
+learn git
 
