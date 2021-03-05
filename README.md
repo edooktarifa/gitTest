@@ -1,7 +1,5 @@
 # gitTest
 
 
-
-learn dev
-
+learns
 
