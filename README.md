@@ -1,3 +1,4 @@
 # gitTest
 
-learn gits
+learn git
+
