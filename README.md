@@ -1,3 +1,3 @@
 # gitTest
 
-learn git conflictss
+learn git confl
