@@ -1,6 +1,5 @@
 # gitTest
 
 
-learn git bases + mt
-learn git bases + mr
+learn git base error
 
