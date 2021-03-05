@@ -1,5 +1,3 @@
 # gitTest
 
-learn git base
-
-learn git conflict
+learn git conflicts
