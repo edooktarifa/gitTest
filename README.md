@@ -1,5 +1,5 @@
 # gitTest
 
 
-learn git rebase --continue
+learn git
 
