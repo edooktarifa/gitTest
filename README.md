@@ -1,3 +1,5 @@
 # gitTest
 
-learn git conf
+
+learn git bases
+
